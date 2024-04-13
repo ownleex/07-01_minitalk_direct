@@ -11,6 +11,6 @@ ccident, souvent intentionnellement (histoire d'y rajouter de petits cl
 ins d'oeil, voire des phrases embarassantes).ant du sens est source de 
 distractions, et empêche de se concentrer sur la mise en page elle-même.
  L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du te
- xte. Du texte.' est qu'il possède une distribution de lettres plus ou minitalk_bonus
+ xte. Du texte.' est qu'il possède une distribution de lettres plus ou mi
 
   getconf ARG_MAX
